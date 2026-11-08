@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/social-previews/goe-operating-system.jpg"
+       width="100%"
+       alt="GOE Operating System White Paper Repository">
+</p>
+
 # GOE Operating System™
 
 **The Eight-Level Engineering Evolution Framework**
@@ -48,7 +54,7 @@ Each level integrates the one before it. The framework follows one continuous en
 
 ## Relationship to GOE
 
-The white paper defines GOE: its levels, its operating stack, and its human-AI operating model. The architectural view is drawn in [goe-architecture](https://github.com/USERNAME/goe-architecture).
+The white paper defines GOE: its levels, its operating stack, and its human-AI operating model. The architectural view is drawn in [goe-architecture](https://github.com/ilsooedisonyu/goe-architecture).
 
 ## Relationship to Yu Genius Lab
 
@@ -61,7 +67,7 @@ Yu Genius Lab publishes knowledge, and this is its first flagship white paper. I
 | 1.2 | November 7, 2026 | Terminology Alignment Edition: current document names, including Engineering Philosophy™, throughout |
 | 1.1 | November 7, 2026 | Integration statement, canonical positioning, and the Chapter 10 additions: GOE operates above AI platforms, the GOE operating stack, and what makes GOE different |
 
-Each published revision from 1.2 onward is attached as a PDF to a [Release](https://github.com/USERNAME/goe-operating-system/releases) of this repository.
+Each published revision from 1.2 onward is attached as a PDF to a [Release](https://github.com/ilsooedisonyu/goe-operating-system/releases) of this repository.
 
 ## Public disclosure
 
@@ -71,7 +77,7 @@ The principles are public. The execution is confidential. The vision is open. Th
 
 ## Vocabulary
 
-The terms used in the white paper are defined in [Open Knowledge™](https://www.yugeniuslab.com/open-knowledge/) and mirrored in [open-knowledge](https://github.com/USERNAME/open-knowledge).
+The terms used in the white paper are defined in [Open Knowledge™](https://www.yugeniuslab.com/open-knowledge/) and mirrored in [open-knowledge](https://github.com/ilsooedisonyu/open-knowledge).
 
 ## Future Direction
 
